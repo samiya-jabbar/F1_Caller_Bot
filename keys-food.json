@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-sheet",
+  "private_key_id": "0c5a4dd09a7abbcfd8e9791b0ba8066f9698d69f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAi/WP+pp5L/rW\n1RlTAazGOX/AdZ1cWuiOMjEmCrLYioVIiXXU5JZTN94y5LGzuitHfwOWhODqFatI\n7dvBrik5/4Qk0dhNthqP12T+opDzcgnhB0/I5+OOytInxrkuz+p5+5lyaGoSd96f\nsQRuNzVOGKmrhUEZ4oVGFMKe9QO1YsPqaGvPiv+ll5No+YfXZSYHq7vsbYLPKN1z\nGM2xma1t+Zngc4Qb/W9ShFB3SB27gywvt0Xeta4NtLbAXKqvi02r97Zp/scEt0iJ\naBTN4ufGkO02NiLiCwqRctGbJmBympP7O0HrFaR1Ck/mVTDBw+pfPDc8KVETNkEk\nApewKOvjAgMBAAECggEAKWjQRoc4WpDRiwtod1wYWsc57Nu+nIKmmhI8VLifTwe3\nc2qwrzj8BWix/lMFzqfer/EmheQM9Pr1C+mvxd8dWa5UrpB8yvW7j6zcuRCgSOMB\nMeafJ4+LdoWzHb/UyrcHb/WGwj6ndVJXTBPHZqaz7ZhLQSqW3ijDzdcgJgx+oC7+\ngU07Mr0xnm65wKSlFay+WVWklNcll5BI53my/3E/ENV6OEE5Kh+dZRUR5IGqUUN7\niAaxYYrDqqiZ0Prc8WpY3Fh8lQjyhABDeZ0wXUlIopk3WDwe4E27PCG1/KGUSOia\nEzNc9gm2pQfBVonzogsm03EMgCIMxDLd04bVDuv0FQKBgQDeayo0clwofnEoQEuf\nKa2wdQs6eYGLQzKipn6EkJ2mchMkFHKyeh6fZPyfoCNkIwkPRyJy+LMnFcRku/ot\nB36QjCCs4MNDHW85TU7DGos47oOV0ZUDm6wMfanH9GvM9rl5j1KEhPjdZZOB0evo\n3dyOzdVYH3c9+4R30Iz0te9jXQKBgQDdnjKg0c9uo9xfkGt5IhKZ8Wb5vAPaSoyz\n3Fkk5mLGnxz5ywhSW2kbF6H9ziItH5ZCqQ+Utnlv9Q4XFd9fazwA1Tzeu/rMlYY0\nfVHVhRG8/sKqLnMO+ZD+rd0trkGX1+CmQPtTrFZAXg7E4kRHiUFr/qxkU34oOtsZ\nFQoCcn3YPwKBgBjllgvY4UgHH1OKHuzqFW8zKtaY009rbjeWu4LLTVpcWpgnUc94\nrATboQudOVj0MwdqxwhnnmY5oYpFIHP56sjzZpTzc+gHW3Pmm3JrfjoZONGEbFHD\nEzcyudaQHaEL3ScmS+5ZlCH0RNa7UNT4QMAbek4q94YQqXtf9OdPlkRhAoGADP+u\ncIhd5ltuHZzW8O/yr1zdcWB5yV/+CL6v694nhQboKC6kelAqRhCIy94/Wu4zXg2U\ngGCDlvGEtg3uYCZmCpZ3T4kvGLjcek+vcRqxA6jduiWnUgWJX6bLBlbmOgXLg3Tk\nSPAezv+1Vg7/ekKut6rkaa4MBEgPedUmFSaqAvkCgYAjO5RIuxPAMdcUFkq3RgrF\nF6EUPwwPLnO2g6F7FH/ptp/aq3MnWSv0dDUjL7weDjEddxzM0rhyiECBPI/Hfz1+\nxxayIE72wNxIVE6VMRLfbl5r93KlVoLBfSp7/JBgiZQdBTlJJa2eDGOlQoOJ70mC\nztOWT3NMmkhLN8ipNGQhOg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodsheet@food-sheet.iam.gserviceaccount.com",
+  "client_id": "104168610149416605033",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodsheet%40food-sheet.iam.gserviceaccount.com"
+}
